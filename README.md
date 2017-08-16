@@ -3,6 +3,8 @@
 
 Quick Start
 ---
+
+[![Join the chat at https://gitter.im/Construktion_/Lobby](https://badges.gitter.im/Construktion_/Lobby.svg)](https://gitter.im/Construktion_/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The Construktion class will build objects with randomized values.
 
 ```c#
